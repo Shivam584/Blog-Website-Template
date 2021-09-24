@@ -1,5 +1,5 @@
 # Blog-Website-Template
-[![Blog-Website-Template](https://img.shields.io/badge/To_Do_List-v1.0.0-pink?labelColor=black&style=flat&link=https://shivam584.github.io/Blog-Website-Template/)](https://shivam584.github.io/Blog-Website-Template/)
+[![Blog-Website-Template](https://img.shields.io/badge/Blog_Website_Template-v1.0.0-pink?labelColor=black&style=flat&link=https://shivam584.github.io/Blog-Website-Template/)](https://shivam584.github.io/Blog-Website-Template/)
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=https://github.com/Shivam584/Blog-Website-Template/blob/main/LICENSE)](https://github.com/Shivam584/Blog-Website-Template/blob/main/LICENSE)
 [![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/Blog-Website-Template/)](https://shivam584.github.io/Blog-Website-Template/)
 <p align="center">
